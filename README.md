@@ -48,7 +48,7 @@ There's a single endpoint: `api.noopschallenge.com/vexbot`
 
 The endpoint accepts five parameters, all optional:
 
-- **count** *(optional, numeric)*: Between 1 and 1000. Number of lines to return
+- **count** *(optional, numeric)*: Between 1 and 1000. Number of lines to return.
 - **magnitude** *(optional, numeric)*: Between 1 and 100,000. Maximum length of lines.
 - **connected** *(optional, numeric boolean)*: 1 or 0. If `connected===1`, then the `b` coordinate of each line will be the `a` coordinate of the next.
 - **width** *(optional, numeric)*: Between 10 and 100,000. Maximum width of returned points.
