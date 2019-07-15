@@ -1,4 +1,4 @@
-const API_BASE = 'https://api-noopbots.lightboard.io';
+const API_BASE = 'https://api.noopschallenge.com';
 
 function NOOPBOT_START() {
   console.log(`Noop Noop! 🤖🤖🤖🤖🤖`);
